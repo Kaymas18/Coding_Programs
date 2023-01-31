@@ -74,3 +74,4 @@ if __name__=="__main__":
         l, r=map(int, input().split())
         obj=Solution()
         print(obj.getCount(root,l,r))
+
