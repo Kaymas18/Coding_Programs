@@ -1,5 +1,5 @@
 //codechef
-//cpde for PRICECON 
+//code for PRICECON 
 #include<stdio.h>
 int main()
 {
