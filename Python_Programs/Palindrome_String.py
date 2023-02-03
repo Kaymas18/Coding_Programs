@@ -3,15 +3,15 @@
 #Love babbar DSA Sheet Question 48 of array
 class Solution:
 	def isPalindrome(self, S):
-		# code here
-		str=""
-		i=0
-        for i in S:
-            str = i + str
-        if str==S:
-            return 1
-        else:
-            return 0
+            # code here
+            str=""
+            i=0
+            for i in S:
+                str = i + str
+            if str==S:
+                return 1
+            else:
+                return 0
 
 
 #{ 
