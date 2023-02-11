@@ -1,8 +1,6 @@
 #GFG
 #User function Template for python3
 #Love babbar DSA Sheet Question 117 of array
-#User function Template for python3
-
 class Solution:
     def inSequence(self, A, B, C):
         # code here

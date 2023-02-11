@@ -1,0 +1,49 @@
+#GFG
+#User function Template for python3
+#Love babbar DSA Sheet Question 97 of array
+class Solution:
+    def majorityElement(self, arr, n):
+        cand = -1
+        vot = 0
+        for i in range (n):
+            if (vot == 0):
+                cand = arr[i]
+                vot = 1
+            else:
+                if (arr[i] == cand):
+                    vot += 1
+                else:
+                    vot -= 1
+        count = 0
+        for i in range (n):
+            if (arr[i] == cand):
+                count += 1
+                 
+        if (count > n // 2):
+            return cand
+        else:
+            return -1
+        #Your code here
+
+
+#{ 
+ # Driver Code Starts
+#Initial Template for Python 3
+def main():
+        T=int(input())
+        while(T>0):
+            
+            N=int(input())
+
+            A=[int(x) for x in input().strip().split()]
+            
+            
+            obj = Solution()
+            print(obj.majorityElement(A,N))
+            
+            T-=1
+
+
+if __name__ == "__main__":
+    main()
+# } Driver Code Ends
