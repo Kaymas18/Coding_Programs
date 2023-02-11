@@ -10,7 +10,6 @@ def dup(arr,n):
             break
         i=i+1
     return x
-import random 
 n=int(input())
 arr=list(map(int,input().strip().split()))
 print(dup(arr,n))
