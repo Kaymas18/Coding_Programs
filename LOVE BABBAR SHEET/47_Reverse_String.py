@@ -1,3 +1,6 @@
+#Leetcode
+#User function Template for python3
+#Love babbar DSA Sheet Question 47 of array
 from ast import List
 
 
