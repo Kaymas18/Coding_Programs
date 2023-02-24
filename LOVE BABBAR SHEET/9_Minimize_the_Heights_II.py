@@ -1,7 +1,6 @@
 #GFG
 #User function Template for python3
 #Love babbar DSA Sheet Question 9 of array
-#User function Template for python3
 
 class Solution:
     def getMinDiff(self, arr, n, k):
