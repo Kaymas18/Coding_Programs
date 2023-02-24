@@ -1,15 +1,16 @@
 #GFG
 #User function Template for python3
 #Love babbar DSA Sheet Question 96 of array
+
 class Solution:
     def findTwoElement( self,arr, n): 
         # code here
         total_sum=(n*(n+1)//2)
         su=sum(set(arr))
         s=sum(arr)
-        y=s-su
-        k=total_sum-su
-        return((y,k))
+        rep=s-su
+        mis=total_sum-su
+        return(rep,mis)
 
 #{ 
  # Driver Code Starts
