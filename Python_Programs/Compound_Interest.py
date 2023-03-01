@@ -9,3 +9,4 @@ rate = int(input("Enter rate of interest: "))
 time = int(input("Enter time in years: " ))
 
 compound_interest(principal,rate,time)
+#added from sublime
