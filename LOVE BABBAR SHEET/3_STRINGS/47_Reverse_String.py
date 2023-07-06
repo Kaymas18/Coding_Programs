@@ -1,6 +1,6 @@
 #Leetcode
 #User function Template for python3
-#Love babbar DSA Sheet Question 47 of array
+#Love babbar DSA Sheet Question 47 
 from ast import List
 
 

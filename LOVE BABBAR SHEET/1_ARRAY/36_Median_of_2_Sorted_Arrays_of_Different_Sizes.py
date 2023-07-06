@@ -1,6 +1,6 @@
 #GFG
 #User function Template for python3
-#Love babbar DSA Sheet Question 36 of array
+#Love babbar DSA Sheet Question 36 
 
 class Solution:
     def MedianOfArrays(self, array1, array2):

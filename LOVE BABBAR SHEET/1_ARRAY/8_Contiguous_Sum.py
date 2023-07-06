@@ -1,6 +1,6 @@
 #GFG
 #User function Template for python3
-#Love babbar DSA Sheet Question 8 of array
+#Love babbar DSA Sheet Question 8 
 class Solution:
     ##Complete this function
     #Function to find the sum of contiguous subarray with maximum sum.

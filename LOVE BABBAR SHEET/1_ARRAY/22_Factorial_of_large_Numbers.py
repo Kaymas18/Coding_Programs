@@ -1,6 +1,6 @@
 #GFG
 #User function Template for python3
-#Love babbar DSA Sheet Question 22 of array
+#Love babbar DSA Sheet Question 22 
 class Solution:
     def factorial(self, N):
         #code here

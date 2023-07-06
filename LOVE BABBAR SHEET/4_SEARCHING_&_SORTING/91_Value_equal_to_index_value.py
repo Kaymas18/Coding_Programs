@@ -1,6 +1,6 @@
 #GFG
 #User function Template for python3
-#Love babbar DSA Sheet Question 91 of array
+#Love babbar DSA Sheet Question 91 
 class Solution:
 
 	def valueEqualToIndex(self,arr, n):

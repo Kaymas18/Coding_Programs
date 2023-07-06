@@ -1,6 +1,6 @@
 #GFG
 #User function Template for python3
-#Love babbar DSA Sheet Question 30 of array
+#Love babbar DSA Sheet Question 30 
 class Solution:
 
     def findMinDiff(self, A,N,M):

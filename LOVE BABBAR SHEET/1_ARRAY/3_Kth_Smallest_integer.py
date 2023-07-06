@@ -1,6 +1,6 @@
 #GFG
 #User function Template for python3
-#Love babbar DSA Sheet Question 3 of array
+#Love babbar DSA Sheet Question 3 
 class Solution:
     def kthSmallest(self,arr, l, r, k):
         arr.sort()

@@ -1,6 +1,6 @@
 #GFG
 #User function Template for python3
-#Love babbar DSA Sheet Question 48 of array
+#Love babbar DSA Sheet Question 48 
 class Solution:
 	def isPalindrome(self, S):
             # code here

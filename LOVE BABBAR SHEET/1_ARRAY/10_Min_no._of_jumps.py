@@ -1,6 +1,6 @@
 #GFG
 #User function Template for python3
-#Love babbar DSA Sheet Question 10 of array
+#Love babbar DSA Sheet Question 10 
 class Solution:
     def minJumps(self, arr, n):
          #code here

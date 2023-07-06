@@ -1,6 +1,6 @@
 #GFG
 #User function Template for python3
-#Love babbar DSA Sheet Question 7 of array
+#Love babbar DSA Sheet Question 7 
 def rotate( arr, n):
     arr.insert(0,arr[-1])
     arr.pop()

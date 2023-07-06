@@ -1,6 +1,6 @@
 #GFG
 #User function Template for python3
-#Love babbar DSA Sheet Question 98 of array
+#Love babbar DSA Sheet Question 98 
 
 
 def search (arr, n, x, k) : 

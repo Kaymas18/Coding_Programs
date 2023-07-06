@@ -1,6 +1,6 @@
 #GFG
 #User function Template for python3
-#Love babbar DSA Sheet Question 97 of array
+#Love babbar DSA Sheet Question 97 
 class Solution:
     def majorityElement(self, arr, n):
         cand = -1

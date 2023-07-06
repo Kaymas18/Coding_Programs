@@ -1,6 +1,6 @@
 #GFG
 #User function Template for python3
-#Love babbar DSA Sheet Question 9 of array
+#Love babbar DSA Sheet Question 9 
 
 class Solution:
     def getMinDiff(self, arr, n, k):

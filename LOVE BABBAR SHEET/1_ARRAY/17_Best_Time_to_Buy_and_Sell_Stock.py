@@ -1,6 +1,6 @@
 #Leetcode
 #User function Template for python3
-#Love babbar DSA Sheet Question 17 of array
+#Love babbar DSA Sheet Question 17 
 from ast import List
 class Solution:
    def maxProfit(self, prices: List[int]) -> int:

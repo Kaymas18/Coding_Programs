@@ -1,6 +1,6 @@
 #Leetcode
 #User function Template for python3
-#Love babbar DSA Sheet Question 11 of array
+#Love babbar DSA Sheet Question 11 
 def dup(arr,n):
     arr.sort()
     i=0

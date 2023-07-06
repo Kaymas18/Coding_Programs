@@ -1,6 +1,6 @@
 #GFG
 #User function Template for python3
-#Love babbar DSA Sheet Question 94 of array
+#Love babbar DSA Sheet Question 94 
 class Solution:
     def middle(self,A,B,C):
         #code here

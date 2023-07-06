@@ -1,6 +1,6 @@
 #GFG
 #User function Template for python3
-#Love babbar DSA Sheet Question 117 of array
+#Love babbar DSA Sheet Question 117 
 class Solution:
     def inSequence(self, A, B, C):
         # code here

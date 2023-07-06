@@ -1,6 +1,6 @@
 #GFG
 #User function Template for python3
-#Love babbar DSA Sheet Question 112 of array
+#Love babbar DSA Sheet Question 112 
 
 class Solution:
     def kthElement(self,  arr1, arr2, n, m, k):

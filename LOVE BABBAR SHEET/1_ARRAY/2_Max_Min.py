@@ -1,6 +1,6 @@
 #GFG
 #User function Template for python3
-#Love babbar DSA Sheet Question 2 of array
+#Love babbar DSA Sheet Question 2 
 class Solution:
     def findSum(self,A,N): 
         #code here

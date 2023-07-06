@@ -1,6 +1,6 @@
 #LeetCode
 #User function Template for python3
-#Love babbar DSA Sheet Question 92 of array
+#Love babbar DSA Sheet Question 92 
 from ast import List
 class Solution:
     def search(self, nums: List[int], target: int) -> int:

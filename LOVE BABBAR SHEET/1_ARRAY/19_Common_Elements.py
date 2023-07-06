@@ -1,6 +1,6 @@
 #GFG
 #User function Template for python3
-#Love babbar DSA Sheet Question 19 of array
+#Love babbar DSA Sheet Question 19 
 class Solution:
     def commonElements (self,A, B, C, n1, n2, n3):
         # your code here

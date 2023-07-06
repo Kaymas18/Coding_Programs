@@ -1,6 +1,6 @@
 #GFG
 #User function Template for python3
-#Love babbar DSA Sheet Question 90 of array
+#Love babbar DSA Sheet Question 90 
 def find(arr,n,x):
     ind = []
     if x in arr:
