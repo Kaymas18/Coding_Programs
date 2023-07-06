@@ -1,6 +1,6 @@
 #GFG
 #User function Template for python3
-#Love babbar DSA Sheet Question 93 of array
+#Love babbar DSA Sheet Question 93 
 class Solution:
     def countSquares(self, N):
         # code here 
