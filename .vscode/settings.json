@@ -35,6 +35,7 @@
   ],
   "C_Cpp.errorSquiggles": "disabled",
   "files.associations": {
-    "START01.C": "cpp"
+    "START01.C": "cpp",
+    "stdio.h": "c"
   }
 }
