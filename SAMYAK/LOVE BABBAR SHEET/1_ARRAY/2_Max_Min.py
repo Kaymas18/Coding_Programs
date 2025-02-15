@@ -7,7 +7,7 @@ class Solution:
         a.sort()
         s=a[0]+a[n-1]
         return s
-
+#Hello
 
 #{ 
  # Driver Code Starts
